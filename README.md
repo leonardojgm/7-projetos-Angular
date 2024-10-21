@@ -18,6 +18,8 @@ https://www.udemy.com/course/formacao-angular-inicio-criando-7-projetos/?couponC
 
 ![image](https://github.com/user-attachments/assets/53caa748-96b8-441a-8f02-a397af009f60)
 
+![image](https://github.com/user-attachments/assets/698b5446-3fe6-4d87-ae8e-71d83ca4d5a8)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
